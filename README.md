@@ -9,11 +9,11 @@ Deze map begint met jullie code, met daarnaast de naam van de school.
 Bijvoorbeeld: K0 - De Creatieve STEM. 
 
 Binnen deze map K0 - De Creatieve STEM zul je kleinere submappen terugvinden. Deze zijn bedoeld voor de groepen die met de machines werken. Bijvoorbeeld:
-K0a (groep 1)
-K0b (groep 2)
-K0c (groep 3)
-K0d (groep 4)
-...
+* K0a (groep 1)
+* K0b (groep 2)
+* K0c (groep 3)
+* K0d (groep 4)
+* ...
 
 Dit laaste, volledige code, moet ingevuld worden op de enquete (geen andere codes!)
 Extra mappen mogen steeds aangemaakt worden volgens hetzelfde princippe.
