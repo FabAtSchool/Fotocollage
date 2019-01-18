@@ -1,6 +1,6 @@
 # Fotocollage
 
-Een van de voorwaarden om de digitale maak toestellen een maand lang gratis bij jullie te kunenn plaatsen is dat er:
+Een van de voorwaarden om de digitale maak toestellen een maand lang gratis bij jullie te kunnen plaatsen is dat er:
 1. een enquete wordt ingevuld (zie persoonlijke code)
 2. fotocollages worden bijgehouden
 
