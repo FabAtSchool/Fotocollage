@@ -17,3 +17,6 @@ Binnen deze map K0 - De Creatieve STEM zul je kleinere submappen terugvinden. De
 
 Dit laaste, volledige code, moet ingevuld worden op de enquete (geen andere codes!)
 Extra mappen mogen steeds aangemaakt worden volgens hetzelfde princippe.
+
+[De Creatieve STEM](http://decreatievestem.be)
+
